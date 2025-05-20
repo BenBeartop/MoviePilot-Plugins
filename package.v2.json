@@ -1,0 +1,14 @@
+{
+    "P123Linker": {
+      "name": "123云盘直链",
+      "description": "生成123云盘直链STRM",
+      "labels": "云盘",
+      "version": "1.0.0",
+      "icon": "https://raw.githubusercontent.com/BenBeartop/MoviePilot-Plugins/main/icons/123pan.png",
+      "author": "BenBear",
+      "level": 1,
+      "history": {
+        "v1.0.0": "支持生成123云盘直链STRM"
+      }
+    }
+  }
